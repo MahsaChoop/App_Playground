@@ -1,0 +1,7 @@
+{
+  "name": "Pandemic Disaster Planner",
+  "description": "An AI-powered guide for local pandemic and disease outbreak preparedness. Get up-to-date, location-specific information on health services, advisories, and emergency resources using Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
